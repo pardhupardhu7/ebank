@@ -1,0 +1,56 @@
+.bg-container {
+  background-color: #152850;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  display: flex;
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+
+.card-form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.label-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.input-Element {
+  height: 35px;
+  width: 300px;
+}
+
+.website-container {
+  background-color: #e0eefe;
+}
+
+.error-Element {
+  color: #ff0b37;
+  font-family: 'Roboto';
+}
+
+.label-user {
+  color: #5a7184;
+  font-family: 'roboto';
+}
+
+.login-bottom-Element {
+  background-color: #1565d8;
+  color: #ffffff;
+  font-family: 'Roboto';
+  width: 100%;
+  height: 40px;
+  border: none;
+  border-radius: 10px;
+}

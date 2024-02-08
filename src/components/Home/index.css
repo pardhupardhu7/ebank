@@ -1,0 +1,46 @@
+.home-container {
+  background-color: #152850;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.website-logo {
+  margin-left: 20px;
+}
+
+.header-container {
+  display: flex;
+  width: 98%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+}
+
+.digital-card {
+  width: 600px;
+}
+
+.atm-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+.your-heading {
+  color: #ffffff;
+  font-size: 50px;
+}
+
+.remove-logout {
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
